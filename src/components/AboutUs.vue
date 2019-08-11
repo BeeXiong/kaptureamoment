@@ -65,25 +65,25 @@ export default {
 
   #aboutUsContent .c{
     width:82%;
-    height: 20%;
-    background: linear-gradient(60deg, #009FDF 73%, #ffffff 50%) no-repeat;
+    height: 19%;
+    background: linear-gradient(0deg, #009FDF 100%, #ffffff 50%) no-repeat;
     margin: 40px 0 0 20%;
   }
   #aboutUsContent .m{
     width:82%;
-    height: 20%;
-    background: linear-gradient(60deg, #D6006E 73%, #ffffff 50%) no-repeat;
+    height: 19%;
+    background: linear-gradient(0deg, #D6006E 100%, #ffffff 50%) no-repeat;
     margin: 250px 0 0 20%;
   }
   #aboutUsContent .y{
     width:82%;
-    height: 20%;
-    background: linear-gradient(60deg, #FFFF00 73%, #ffffff 50%) no-repeat;
+    height: 19%;
+    background: linear-gradient(0deg, #FFFF00 100%, #ffffff 50%) no-repeat;
     margin: 250px 0 0 20%;
   }
 
   .thisThing{
-    width:97%;
+    width:95%;
     height: auto;
     margin:0;
     text-align: left;
@@ -102,7 +102,7 @@ export default {
   .cPic{
    width:250px;
    height: 250px;
-   margin: -3% -23%;
+   margin: -5% -23%;
    border-radius: 500px;
    box-shadow: 5px 3px 12px -4px #4d4d4d, -1px 1px 2px -2px #4d4d4d;
    border: solid 6px #fff;
@@ -110,7 +110,7 @@ export default {
   .cFrame{
     width:100%;
     height: 100%;
-    margin:0;
+    margin:5px,0;
   }
   .stories{
     width: 95%;
